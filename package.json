@@ -2,8 +2,12 @@
     "name": "supersplat",
     "version": "0.20.0",
     "author": "PlayCanvas<support@playcanvas.com>",
+<<<<<<< Updated upstream
     "homepage": "https://playcanvas.com/supersplat/editor",
     "description": "3D Gaussian Splat Editor",
+=======
+    "description": "All the splat things",
+>>>>>>> Stashed changes
     "keywords": [
         "playcanvas",
         "ply",
